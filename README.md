@@ -14,7 +14,6 @@
 
 <hr></hr>
 <div align="center">
-<img height="195" width="495" src="https://github-readme-stats.vercel.app/api/top-langs?username=frbernad&show_icons=true&locale=en&layout=compact&theme=gotham" alt="frbernad"/>
 <img src="https://github-readme-stats.vercel.app/api?username=frbernad&show_icons=true&locale=en&theme=gotham" alt="frbernad"/>
 </div>
 
