@@ -14,8 +14,11 @@
 
 <hr></hr>
 
-<div style="display:flex;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=frbernad&show_icons=true&locale=en&layout=compact&theme=gotham" alt="frbernad"/>
+<div style="
+    display: flex;
+    justify-content: space-between;
+">
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=frbernad&show_icons=true&locale=en&layout=compact&theme=gotham" alt="frbernad"/>
 <img src="https://github-readme-stats.vercel.app/api?username=frbernad&show_icons=true&locale=en&theme=gotham" alt="frbernad"/>
 </div>
 
