@@ -14,9 +14,13 @@
 
 <hr></hr>
 
+<div>
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frbernad&show_icons=true&locale=en&layout=compact&theme=gotham" alt="frbernad"/></p>
+</div>
 
 <hr></hr>
 
+<div>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frbernad&show_icons=true&locale=en&theme=gotham" alt="frbernad"/></p>
+</div>
 
