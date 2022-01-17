@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Bernad</h1>
 <h3 align="center">A passionate software engineer student from Argentina</h3>
-<p align="left"> <a href="http://franciscobernad.com.ar/" target="_blank">Web Portfolio</a> </p>
+<p align="left"> <a href="http://franciscobernad.com.ar/" target="blank" style="color: black; font-weight="bold">Web Portfolio</a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frbernad&label=Profile%20views&color=0e75b6&style=flat" alt="frbernad" /> </p>
 
 <h3 align="left">Connect with me:</h3>
